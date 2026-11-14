@@ -1,0 +1,61 @@
+Date,Category,Product,City,Quantity,UnitPrice
+2026-01-03,Office,Desk Lamp,Hamburg,3,29.00
+2026-01-09,Accessories,Laptop Stand,Berlin,7,37.00
+2026-01-15,Electronics,Webcam,Luebeck,7,65.00
+2026-01-21,Office,Pen Set,Kiel,5,12.00
+2026-01-26,Accessories,USB Cable,Hamburg,8,10.00
+2026-02-03,Accessories,Phone Case,Berlin,4,17.00
+2026-02-09,Electronics,Webcam,Luebeck,8,65.00
+2026-02-15,Office,Notebook,Kiel,3,8.00
+2026-02-21,Accessories,USB Cable,Hamburg,4,10.00
+2026-02-26,Electronics,Mouse,Berlin,1,22.00
+2026-03-03,Electronics,Keyboard,Luebeck,1,35.00
+2026-03-09,Office,Notebook,Kiel,6,8.00
+2026-03-15,Accessories,Laptop Stand,Hamburg,7,37.00
+2026-03-21,Electronics,Mouse,Berlin,2,22.00
+2026-03-26,Office,Pen Set,Luebeck,3,12.00
+2026-04-03,Office,Desk Lamp,Kiel,4,29.00
+2026-04-09,Accessories,Laptop Stand,Hamburg,4,37.00
+2026-04-15,Electronics,Webcam,Berlin,1,65.00
+2026-04-21,Office,Pen Set,Luebeck,7,12.00
+2026-04-26,Accessories,USB Cable,Kiel,7,10.00
+2026-05-03,Accessories,Phone Case,Hamburg,8,17.00
+2026-05-09,Electronics,Webcam,Berlin,1,65.00
+2026-05-15,Office,Notebook,Luebeck,6,8.00
+2026-05-21,Accessories,USB Cable,Kiel,8,10.00
+2026-05-26,Electronics,Mouse,Hamburg,2,22.00
+2026-06-03,Electronics,Keyboard,Berlin,6,35.00
+2026-06-09,Office,Notebook,Luebeck,1,8.00
+2026-06-15,Accessories,Laptop Stand,Kiel,3,37.00
+2026-06-21,Electronics,Mouse,Hamburg,2,22.00
+2026-06-26,Office,Pen Set,Berlin,2,12.00
+2026-07-03,Office,Desk Lamp,Luebeck,1,29.00
+2026-07-09,Accessories,Laptop Stand,Kiel,8,37.00
+2026-07-15,Electronics,Webcam,Hamburg,3,65.00
+2026-07-21,Office,Pen Set,Berlin,6,12.00
+2026-07-26,Accessories,USB Cable,Luebeck,7,10.00
+2026-08-03,Accessories,Phone Case,Kiel,8,17.00
+2026-08-09,Electronics,Webcam,Hamburg,3,65.00
+2026-08-15,Office,Notebook,Berlin,3,8.00
+2026-08-21,Accessories,USB Cable,Luebeck,1,10.00
+2026-08-26,Electronics,Mouse,Kiel,8,22.00
+2026-09-03,Electronics,Keyboard,Hamburg,4,35.00
+2026-09-09,Office,Notebook,Berlin,2,8.00
+2026-09-15,Accessories,Laptop Stand,Luebeck,4,37.00
+2026-09-21,Electronics,Mouse,Kiel,4,22.00
+2026-09-26,Office,Pen Set,Hamburg,2,12.00
+2026-10-03,Office,Desk Lamp,Berlin,2,29.00
+2026-10-09,Accessories,Laptop Stand,Luebeck,8,37.00
+2026-10-15,Electronics,Webcam,Kiel,7,65.00
+2026-10-21,Office,Pen Set,Hamburg,4,12.00
+2026-10-26,Accessories,USB Cable,Berlin,6,10.00
+2026-11-03,Accessories,Phone Case,Luebeck,3,17.00
+2026-11-09,Electronics,Webcam,Kiel,7,65.00
+2026-11-15,Office,Notebook,Hamburg,5,8.00
+2026-11-21,Accessories,USB Cable,Berlin,6,10.00
+2026-11-26,Electronics,Mouse,Luebeck,8,22.00
+2026-12-03,Electronics,Keyboard,Kiel,7,35.00
+2026-12-09,Office,Notebook,Hamburg,6,8.00
+2026-12-15,Accessories,Laptop Stand,Berlin,8,37.00
+2026-12-21,Electronics,Mouse,Luebeck,7,22.00
+2026-12-26,Office,Pen Set,Kiel,5,12.00
